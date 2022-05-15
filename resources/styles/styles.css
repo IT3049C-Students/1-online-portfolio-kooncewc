@@ -1,0 +1,45 @@
+#personalBackground {
+  border: double;
+  font: 20px Calibri, sans-serif;
+
+}
+
+#experience {
+
+  border: double;
+  font: 20px Calibri, sans-serif;
+
+}
+
+#programmingLanguages {
+  font: 20px Calibri, sans-serif;
+  border: double;
+
+}
+
+#achievements {
+  border: double;
+  font: 20px Calibri, sans-serif;
+
+}
+
+#games {
+  border: double;
+  font: 20px Calibri, sans-serif;
+
+}
+
+.section {
+  display: flexbox;
+  background-color: yellow;
+}
+
+#about {
+  float: right;
+
+}
+
+img {
+  float: left;
+
+}
